@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://jala.designmockup.studio"
+baseURL = "https://jalaartmockup.pages.dev/"
 title = "Design Mockups"
 theme = "jala"
 languageName = "En"
@@ -76,7 +76,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2021 [jala.designmockup.studio](https://jala.designmockup.studio)" 
+copyright = "Copyright 2024 [jalaartmockup.pages.dev](https://jalaartmockup.pages.dev)" 
 
 # Preloader
 [params.preloader]
